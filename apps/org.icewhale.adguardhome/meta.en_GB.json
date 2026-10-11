@@ -1,0 +1,4 @@
+{
+  "id": "org.icewhale.adguardhome",
+  "release_note": "- DNS64 treating unresolved CNAME/DNAME answers as the end of resolution chain\n- Blocked requests without an EDNS(0) OPT record"
+}

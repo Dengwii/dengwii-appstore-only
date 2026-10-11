@@ -1,0 +1,4 @@
+{
+  "id": "org.icewhale.adguardhome",
+  "release_note": "- DNS64 が未解決の CNAME/DNAME 応答を名前解決チェーンの終端として扱う\n- EDNS(0) OPT レコードのないブロック済みリクエスト"
+}

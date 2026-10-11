@@ -1,0 +1,5 @@
+{
+  "store_id": "dengwii-appstore-only",
+  "name": "Dengwii 独立应用商店",
+  "description": "用于商店源隔离测试的独立应用商店，所有 Compose 项目名均带有全局唯一前缀。"
+}

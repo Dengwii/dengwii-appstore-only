@@ -1,0 +1,5 @@
+{
+  "id": "org.icewhale.smokeping",
+  "tagline": "Herramienta de monitoreo de rendimiento de red de código abierto gratuita",
+  "description": "mantiene un registro de su latencia de red."
+}

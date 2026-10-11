@@ -1,0 +1,57 @@
+name: dengwii-appstore-only-mineos-node
+# Base file from: https://github.com/hexparrot/mineos-node/blob/master/docker-compose.yml
+
+services:
+  mineos:
+    image: hexparrot/mineos:latest@sha256:247be835fbdc48932e92dc3dee9e2a9fcee5fa877ce5cbb0edf7abda6f0323f5
+    container_name: mineos_server
+    networks:
+      - mineos
+    restart: unless-stopped
+
+    # Adjust as needed; if this is too short, stopping the container
+    # may corrupt map data
+    stop_grace_period: 10m
+
+    volumes:
+      # Using a bind mapping is preferrable here due to how docker
+      # stores names volumes by default in /var/lib/docker/volumes
+      # with permissions that prevent normal users from accessing
+      # the folder structure.
+      - /var/games/mineos/minecraft:/var/games/minecraft
+
+    environment:
+      USE_HTTPS: "true"
+      SERVER_PORT: 8443
+      USER_NAME: mc
+      USER_UID: 1000
+      USER_PASSWORD: root
+
+    ports:
+      # HTTPS port for web interface. If you change the SERVER_PORT
+      # variable, also change this mapping.
+      - "8444:8443/tcp"
+
+      # Minecraft server ports. 25565 is the default, but is you plan
+      # on running multiple servers at the same time, each will need
+      # a unique port unless you are using bungiecord.
+      # Expand this range as needed.
+      - "25565-25570:25565-25570/tcp"
+      - "25565-25570:25565-25570/udp"
+
+volumes:
+  mineos_data:
+
+
+networks:
+  mineos:
+x-casaos:
+  id: org.icewhale.mineosnode
+  main: mineos
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/dengwii-appstore-only@gh-pages/apps/org.icewhale.mineosnode/assets/icon.svg
+  title:
+    en_US: MineOS
+  index: /admin/index.html
+  scheme: https
+  port_map: "8444"
+  version: "1.2.2"

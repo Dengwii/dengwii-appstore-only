@@ -1,0 +1,4 @@
+{
+  "id": "org.icewhale.adguardhome",
+  "release_note": "- DNS64가 확인되지 않은 CNAME/DNAME 응답을 확인 체인의 끝으로 처리함\n- EDNS(0) OPT 레코드가 없는 차단된 요청"
+}

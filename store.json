@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "store_id": "dengwii-appstore-only",
+  "name": "Dengwii AppStore Only",
+  "description": "A standalone app store whose Compose project names are globally prefixed for source-isolation testing.",
+  "maintainer": "Dengwii",
+  "url": "https://github.com/Dengwii/dengwii-appstore-only"
+}

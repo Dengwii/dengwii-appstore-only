@@ -1,0 +1,4 @@
+{
+  "id": "org.icewhale.adguardhome",
+  "release_note": "- DNS64 tretira odgovore s nerazriješenim CNAME/DNAME zapisima kao kraj lanca razrješavanja\n- Blokirani zahtjevi bez EDNS(0) OPT zapisa"
+}

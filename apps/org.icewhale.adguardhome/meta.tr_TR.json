@@ -1,0 +1,4 @@
+{
+  "id": "org.icewhale.adguardhome",
+  "release_note": "- DNS64, çözümlenmemiş CNAME/DNAME yanıtlarını çözümleme zincirinin sonu olarak ele alıyor\n- EDNS(0) OPT kaydı olmayan engellenmiş istekler"
+}

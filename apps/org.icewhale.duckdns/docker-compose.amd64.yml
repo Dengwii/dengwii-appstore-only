@@ -1,0 +1,26 @@
+name: dengwii-appstore-only-duckdns
+services:
+  duckdns:
+    image: lscr.io/linuxserver/duckdns:latest@sha256:58fe471c47b13a281b9620f061db96ff79b44586d18dcc57076c5c3d6c3c17b2
+    container_name: duckdns
+    network_mode: host #optional
+    environment:
+      - PUID=1000 #optional
+      - PGID=1000 #optional
+      - TZ=Etc/UTC #optional
+      - SUBDOMAINS=subdomain1,subdomain2
+      - TOKEN=token
+      - UPDATE_IP=ipv6 #optional
+      - LOG_FILE=false #optional
+    volumes:
+      - /DATA/AppData/duckdns:/config #optional
+    restart: unless-stopped
+
+x-casaos:
+  id: org.icewhale.duckdns
+  main: duckdns
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/dengwii-appstore-only@gh-pages/apps/org.icewhale.duckdns/assets/icon.svg
+  title:
+    en_US: duckdns
+  index: /
+  version: "0.0.1"

@@ -1,0 +1,24 @@
+name: dengwii-appstore-only-homebridge
+version: '2'
+services:
+  homebridge:
+    # had to use homebridge/homebridge:latest because there are no versions listed
+    image: homebridge/homebridge:latest@sha256:f9358d5497d3d8171c436a0400445397f4f8704cf773ed660fdb54128ac0b7b8
+    restart: always
+    network_mode: host
+    volumes:
+      - /DATA/AppData/$AppID/config:/homebridge
+    logging:
+      driver: json-file
+      options:
+        max-size: "10mb"
+        max-file: "1"
+x-casaos:
+  id: org.icewhale.homebridge
+  main: homebridge
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/dengwii-appstore-only@gh-pages/apps/org.icewhale.homebridge/assets/icon.svg
+  title:
+    en_US: Homebridge
+  index: /
+  port_map: "8581"
+  version: "2.1.0"

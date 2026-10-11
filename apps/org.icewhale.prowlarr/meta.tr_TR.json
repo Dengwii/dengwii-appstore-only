@@ -1,0 +1,4 @@
+{
+  "id": "org.icewhale.prowlarr",
+  "release_note": "- Prowlarr 2.5.2.5491, DesiGaane ve NZBIndex indeksleyicilerini ve yeni IPTorrents sıralama seçeneklerini ekler.\n- Boyut hassasiyetini iyileştirir ve indeksleyici kategori ve ayrıştırma sorunlarını düzeltir.\n- Docker kullanıcıları uygulama içi güncelleyici yerine konteyner görüntüsünü güncellemelidir."
+}

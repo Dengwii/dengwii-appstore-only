@@ -1,0 +1,243 @@
+{
+  "apps": [
+    {
+      "id": "org.icewhale.2fauth",
+      "tagline": "Una aplicación web para administrar sus cuentas de autenticación de dos factores (2FA) y generar sus códigos de seguridad"
+    },
+    {
+      "id": "org.icewhale.adguardhome",
+      "tagline": "Servidor DNS de bloqueo de anuncios y rastreadores a nivel de red"
+    },
+    {
+      "id": "org.icewhale.albyhub",
+      "tagline": "Un nodo de Lightning de Bitcoin simple con una cartera, subcuentas y conexiones NWC."
+    },
+    {
+      "id": "org.icewhale.bazarr",
+      "tagline": "Generadores de cartas para Sonarr y Radarr"
+    },
+    {
+      "id": "org.icewhale.calibreweb",
+      "tagline": "Aplicación web para navegar, leer y descargar libros electrónicos almacenados en una base de datos Calibre"
+    },
+    {
+      "id": "org.icewhale.chatbotui",
+      "tagline": "Interfaz de chat de código abierto para modelos de IA"
+    },
+    {
+      "id": "org.icewhale.crafty",
+      "tagline": "Toma el control de tus servidores de Minecraft."
+    },
+    {
+      "id": "org.icewhale.deluge",
+      "tagline": "Un cliente ligero y gratuito de BitTorrent."
+    },
+    {
+      "id": "org.icewhale.dsh-harness",
+      "tagline": "DeepSeek Harness \"Todo es un plugin\"."
+    },
+    {
+      "id": "org.icewhale.duckdns",
+      "tagline": "DNS dinámico para su dominio, compatible con IPv4 e IPv6"
+    },
+    {
+      "id": "org.icewhale.duplicati",
+      "tagline": "¡Almacena copias de seguridad cifradas de forma segura en la nube!"
+    },
+    {
+      "id": "org.icewhale.embynvidia",
+      "tagline": "LLEVA TUS MEDIOS A CUALQUIER LUGAR CON EMBY"
+    },
+    {
+      "id": "org.icewhale.embystat",
+      "tagline": "Calcule todas las estadísticas de su servidor Emby o Jellyfin (local)"
+    },
+    {
+      "id": "org.icewhale.filedrop",
+      "tagline": "FileDrop es un servicio gratuito de código abierto para compartir archivos."
+    },
+    {
+      "id": "org.icewhale.fileflows",
+      "tagline": "¡Procesamiento de archivos hecho fácil!"
+    },
+    {
+      "id": "org.icewhale.freshrss",
+      "tagline": "Un agregador de noticias gratuito y autoalojable..."
+    },
+    {
+      "id": "org.icewhale.frigate",
+      "title": "Frigate",
+      "tagline": "Supervisa tus cámaras de seguridad con IA procesada localmente"
+    },
+    {
+      "id": "org.icewhale.gitea",
+      "tagline": "Git con una taza de té"
+    },
+    {
+      "id": "org.icewhale.grafana",
+      "tagline": "Grafana es una pila de observabilidad completa que le permite monitorear y analizar métricas, registros y rastros. Le permite consultar, visualizar, alertar y comprender sus datos, sin importar dónde se almacenen.\n"
+    },
+    {
+      "id": "org.icewhale.handbrake",
+      "tagline": "Libera tus videos y desata infinitas posibilidades."
+    },
+    {
+      "id": "org.icewhale.jackett",
+      "tagline": "Jackett funciona como un servidor proxy"
+    },
+    {
+      "id": "org.icewhale.jellyfinnvidia",
+      "tagline": "Le pone en control de sus medios."
+    },
+    {
+      "id": "org.icewhale.jenkins",
+      "tagline": "Servidor de Integración Continua y Entrega de Jenkins."
+    },
+    {
+      "id": "org.icewhale.lazylibrarian",
+      "tagline": "Descargador automático de libros electrónicos"
+    },
+    {
+      "id": "org.icewhale.lidarr",
+      "tagline": "Gestor de colecciones de música para usuarios de Usenet y BitTorrent"
+    },
+    {
+      "id": "org.icewhale.llamacpp",
+      "title": "llama.cpp",
+      "tagline": "Ejecuta LLMs GGUF localmente con aceleración de GPU"
+    },
+    {
+      "id": "org.icewhale.mariadb",
+      "tagline": "MariaDB Server es uno de los servidores de bases de datos más populares del mundo. Está creado por los desarrolladores originales de MySQL y garantiza ser de código abierto."
+    },
+    {
+      "id": "org.icewhale.mineosnode",
+      "tagline": "Herramienta de administración de servidores de Minecraft gratuita y fácil de usar."
+    },
+    {
+      "id": "org.icewhale.mongodb",
+      "tagline": "Un programa de base de datos orientado a documentos, gratuito y de código abierto, que es multiplataforma. MongoDB se clasifica como un programa de base de datos NoSQL y utiliza documentos similares a JSON con esquemas."
+    },
+    {
+      "id": "org.icewhale.mongodb4",
+      "tagline": "Un programa de base de datos orientado a documentos, gratuito y de código abierto, que es multiplataforma. MongoDB se clasifica como un programa de base de datos NoSQL y utiliza documentos similares a JSON con esquemas."
+    },
+    {
+      "id": "org.icewhale.mylar3",
+      "tagline": "Descargador automático de cómics (cbr/cbz)"
+    },
+    {
+      "id": "org.icewhale.nextcloud",
+      "tagline": "La plataforma de productividad que te mantiene en control"
+    },
+    {
+      "id": "org.icewhale.nginxproxymanager",
+      "tagline": "Administración de hosts proxy de Nginx con una interfaz simple y poderosa."
+    },
+    {
+      "id": "org.icewhale.nzbget",
+      "tagline": "Descargador de Usenet eficiente"
+    },
+    {
+      "id": "org.icewhale.ombi",
+      "tagline": "¡Herramienta de solicitud de medios amigable, sincroniza automáticamente con tus servidores de medios!"
+    },
+    {
+      "id": "org.icewhale.openhab",
+      "tagline": "Empoderamiento del hogar inteligente"
+    },
+    {
+      "id": "org.icewhale.openspeedtest",
+      "tagline": "Servidor de prueba de velocidad de red HTML5."
+    },
+    {
+      "id": "org.icewhale.overseerr",
+      "tagline": "Overseerr es una herramienta de gestión de solicitudes y descubrimiento de medios construida para funcionar con su ecosistema Plex existente."
+    },
+    {
+      "id": "org.icewhale.petio",
+      "tagline": "Una aplicación complementaria de terceros disponible para los propietarios de servidores Plex que permite a sus usuarios solicitar, revisar y descubrir contenido."
+    },
+    {
+      "id": "org.icewhale.photoprism",
+      "tagline": "Navegar, organizar y compartir su colección de fotos"
+    },
+    {
+      "id": "org.icewhale.playitagent",
+      "tagline": "Un proxy inverso gratuito para servicios de túnel (no autoalojado)."
+    },
+    {
+      "id": "org.icewhale.postgresql",
+      "tagline": "PostgreSQL es un sistema de base de datos relacional avanzado, de clase empresarial y de código abierto. PostgreSQL admite consultas tanto SQL (relacional) como JSON (no relacional)."
+    },
+    {
+      "id": "org.icewhale.prowlarr",
+      "tagline": "Integración de varias aplicaciones PVR"
+    },
+    {
+      "id": "org.icewhale.qbittorrent",
+      "tagline": "Descargador de BitTorrent gratuito"
+    },
+    {
+      "id": "org.icewhale.radarr",
+      "tagline": "El administrador de colecciones de películas para usuarios de Usenet y BitTorrent"
+    },
+    {
+      "id": "org.icewhale.readarr",
+      "tagline": "Administrador de colecciones de libros electrónicos y audiolibros para usuarios de Usenet y BitTorrent."
+    },
+    {
+      "id": "org.icewhale.resiliosync",
+      "tagline": "Libera el poder de la sincronización de archivos sin problemas."
+    },
+    {
+      "id": "org.icewhale.roonserver",
+      "title": "Roon Server",
+      "tagline": "Software musical que transforma tu experiencia auditiva"
+    },
+    {
+      "id": "org.icewhale.sabnzbd",
+      "tagline": "Lector de noticias binarias gratuito y fácil de usar"
+    },
+    {
+      "id": "org.icewhale.sickchill",
+      "tagline": "Administrador automático de bibliotecas de video para programas de televisión"
+    },
+    {
+      "id": "org.icewhale.smokeping",
+      "tagline": "Herramienta de monitoreo de rendimiento de red de código abierto gratuita"
+    },
+    {
+      "id": "org.icewhale.snapdrop",
+      "tagline": "Compartir archivos entre plataformas nunca fue tan fácil."
+    },
+    {
+      "id": "org.icewhale.sonarr",
+      "tagline": "El PVR para usuarios de Usenet y BitTorrent"
+    },
+    {
+      "id": "org.icewhale.tautulli",
+      "tagline": "Monitoree su servidor de medios Plex y mucho más."
+    },
+    {
+      "id": "org.icewhale.unificontroller",
+      "tagline": "El software Unifi-controller es un poderoso motor de software inalámbrico empresarial ideal para implementaciones de clientes de alta densidad que requieren baja latencia y alto rendimiento de disponibilidad."
+    },
+    {
+      "id": "org.icewhale.vaultwarden",
+      "tagline": "Un servidor Bitwarden autohospedado"
+    },
+    {
+      "id": "org.icewhale.virtmanager",
+      "tagline": "Una interfaz web GTK Broadway para libvirt y virt-manager."
+    },
+    {
+      "id": "org.icewhale.webdav",
+      "tagline": "Un protocolo de intercambio y gestión de archivos basado en web"
+    },
+    {
+      "id": "org.icewhale.wgeasy",
+      "tagline": "WEB UI para gestionar WireGuard VPN."
+    }
+  ]
+}

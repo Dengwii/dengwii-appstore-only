@@ -1,0 +1,4 @@
+{
+  "id": "org.icewhale.adguardhome",
+  "release_note": "- O DNS64 trata as respostas com CNAME/DNAME não resolvidos como o fim da cadeia de resolução\n- Pedidos bloqueados sem um registo EDNS(0) OPT"
+}

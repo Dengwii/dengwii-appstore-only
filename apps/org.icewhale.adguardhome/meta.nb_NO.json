@@ -1,0 +1,4 @@
+{
+  "id": "org.icewhale.adguardhome",
+  "release_note": "- DNS64 behandler uoppløste CNAME/DNAME-svar som slutten på oppløsningskjeden\n- Blokkerte forespørsler uten en EDNS(0) OPT-post"
+}

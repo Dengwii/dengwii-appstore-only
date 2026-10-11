@@ -1,0 +1,4 @@
+{
+  "id": "org.icewhale.radarr",
+  "release_note": "- Radarr 6.3.0.10514 は Simkl リストからのインポートと、年を使用するカスタムフォーマットを修正します。\n- FFprobe を 5.1.10 に更新し、qBittorrent の認証修正を含みます。\n- Docker ユーザーはアプリ内更新ではなくコンテナイメージを更新してください。"
+}

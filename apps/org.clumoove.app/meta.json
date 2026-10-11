@@ -1,0 +1,34 @@
+{
+  "architectures": [
+    "amd64",
+    "arm64"
+  ],
+  "category": "Productivity",
+  "author": "Marcel Meyer",
+  "developer": "Marcel Meyer",
+  "screenshot_link": [
+    "/apps/org.clumoove.app/assets/screenshot-1.webp",
+    "/apps/org.clumoove.app/assets/screenshot-2.webp"
+  ],
+  "thumbnail": "/apps/org.clumoove.app/assets/thumbnail.webp",
+  "tagline": "Self-hosted cloud data migration & sync manager",
+  "description": "Clumoove is a modern, self-hosted cloud data migration and synchronization platform for files, calendars, and contacts.\n\nEasily connect, transfer, and synchronize data between cloud storage providers including Nextcloud, Google Drive, Dropbox, OneDrive, HiDrive, S3, WebDAV, SMB, SFTP, FTP, Immich, Seafile, Koofr, MEGA, and local storage.\n\nKey Features:\n- Zero-disk streaming transfers (no local temporary storage retention during migration)\n- Multi-threaded background migrations and cron-based synchronization schedules\n- Robust 3-way hash integrity verification & flexible conflict resolution\n- Integrated cloud file manager with multi-format previews and thumbnails\n- Multi-channel notification delivery (Gotify, ntfy, Telegram, Discord, Email)\n- Enterprise-grade security with AES-256-GCM encryption, TOTP 2FA, and audit logging\n",
+  "update_at": "2026-09-03",
+  "website": "https://clumoove.com",
+  "repo": "https://github.com/xXRoxXeRXx/clumoove",
+  "support": "https://github.com/xXRoxXeRXx/clumoove/issues",
+  "docs": "https://docs.clumoove.com",
+  "title": "Clumoove",
+  "release_note": "- Fixes S3 multipart uploads failing with HTTP 500 InternalError during UploadPart on Railway Storage Buckets (Tigris), MinIO, and other S3-compatible providers.",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/dengwii-appstore-only@gh-pages",
+  "id": "org.clumoove.app",
+  "version": "0.17.0",
+  "categories": [
+    "productivity"
+  ],
+  "min_memory": 0,
+  "min_image_size": {
+    "amd64": 209677862,
+    "arm64": 203928349
+  }
+}

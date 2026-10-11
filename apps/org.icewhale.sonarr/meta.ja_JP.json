@@ -1,0 +1,4 @@
+{
+  "id": "org.icewhale.sonarr",
+  "release_note": "- Sonarr 4.0.19.2979 は qBittorrent の Basic 認証を修正し、認証 Cookie を再利用します。\n- FFprobe を 5.1.10 に更新します。Docker ユーザーはアプリ内更新ではなくコンテナイメージを更新してください。"
+}
