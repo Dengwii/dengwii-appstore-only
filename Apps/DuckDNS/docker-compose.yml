@@ -1,4 +1,4 @@
-name: duckdns
+name: dengwii-appstore-only-duckdns
 services:
   duckdns:
     image: lscr.io/linuxserver/duckdns:latest

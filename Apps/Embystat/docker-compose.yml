@@ -1,4 +1,4 @@
-name: embystat
+name: dengwii-appstore-only-embystat
 services:
   embystat:
     environment:

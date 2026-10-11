@@ -1,4 +1,4 @@
-name: excalidraw
+name: dengwii-appstore-only-excalidraw
 services:
   excalidraw:
     image: excalidraw/excalidraw:latest

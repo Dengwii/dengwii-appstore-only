@@ -1,4 +1,4 @@
-name: swingmusic
+name: dengwii-appstore-only-swingmusic
 services:
   swingmusic:
     image: ghcr.io/swingmx/swingmusic:v2.1.4

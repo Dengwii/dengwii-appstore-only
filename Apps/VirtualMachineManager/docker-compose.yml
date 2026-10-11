@@ -1,4 +1,4 @@
-name: virt-manager
+name: dengwii-appstore-only-virt-manager
 services:
   virt-manager:
     restart: always

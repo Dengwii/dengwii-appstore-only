@@ -1,4 +1,4 @@
-name: snapotter
+name: dengwii-appstore-only-snapotter
 services:
   snapotter:
     image: snapotter/snapotter:2.2.0

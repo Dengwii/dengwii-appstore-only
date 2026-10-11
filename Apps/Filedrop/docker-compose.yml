@@ -1,4 +1,4 @@
-name: filedrop
+name: dengwii-appstore-only-filedrop
 services:
   filedrop:
     environment:

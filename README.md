@@ -1,8 +1,14 @@
-# ZimaOS AppStore Source
+# Dengwii AppStore Only
 
-[![GitHub issues by-label](https://img.shields.io/github/issues/IceWhaleTech/CasaOS-AppStore/help%20wanted?label=help%20wanted&style=for-the-badge)](https://github.com/IceWhaleTech/CasaOS-AppStore/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) [![GitHub contributors](https://img.shields.io/github/contributors/IceWhaleTech/CasaOS-AppStore?style=for-the-badge)](https://github.com/IceWhaleTech/CasaOS-AppStore/graphs/contributors)
+This repository is a standalone ZimaOS/CasaOS app store derived from
+[`Dengwii/CasaOS-AppStore`](https://github.com/Dengwii/CasaOS-AppStore).
 
-This repository hosts the source definitions for the official ZimaOS app store.
+Every Compose project name uses the `dengwii-appstore-only-` prefix so an app
+installed from this source cannot be matched to another store merely because
+the original project names are identical.
+
+- V2 source: `https://cdn.jsdelivr.net/gh/Dengwii/dengwii-appstore-only@gh-pages/store.json`
+- V1 source: `https://github.com/Dengwii/dengwii-appstore-only/archive/refs/heads/main.zip`
 
 For third-party store maintainers who want to reuse the official build and publish approach, start with [Official Actions and Workflows](./docs/guides/official-actions-and-workflows.md).
 

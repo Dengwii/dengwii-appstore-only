@@ -1,4 +1,4 @@
-name: rdtclient
+name: dengwii-appstore-only-rdtclient
 services:
   rdtclient:
     environment:

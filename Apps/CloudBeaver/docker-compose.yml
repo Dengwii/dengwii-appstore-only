@@ -1,5 +1,5 @@
 version: "3.7"
-name: cloudbeaver
+name: dengwii-appstore-only-cloudbeaver
 services:
   cloudbeaver:
     container_name: cloudbeaver

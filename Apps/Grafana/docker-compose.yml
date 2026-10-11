@@ -1,4 +1,4 @@
-name: grafana
+name: dengwii-appstore-only-grafana
 services:
   grafana:
     image: grafana/grafana:13.0.1-security-01

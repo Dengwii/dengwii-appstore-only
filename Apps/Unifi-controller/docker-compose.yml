@@ -1,4 +1,4 @@
-name: unifi-controller
+name: dengwii-appstore-only-unifi-controller
 services:
   unifi-controller:
     environment:

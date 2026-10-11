@@ -1,4 +1,4 @@
-name: sure
+name: dengwii-appstore-only-sure
 services:
   sure-web:
     container_name: sure-web

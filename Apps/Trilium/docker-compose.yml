@@ -1,4 +1,4 @@
-name: trilium
+name: dengwii-appstore-only-trilium
 services:
   trilium:
     command: []

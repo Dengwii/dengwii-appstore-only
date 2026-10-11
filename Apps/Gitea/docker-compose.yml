@@ -1,4 +1,4 @@
-name: gitea
+name: dengwii-appstore-only-gitea
 services:
   gitea:
     environment:

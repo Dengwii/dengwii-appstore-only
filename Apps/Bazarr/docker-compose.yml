@@ -1,4 +1,4 @@
-name: bazarr
+name: dengwii-appstore-only-bazarr
 services:
   bazarr:
     environment:

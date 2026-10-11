@@ -1,4 +1,4 @@
-name: memos
+name: dengwii-appstore-only-memos
 services:
   memos:
     environment:

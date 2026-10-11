@@ -1,4 +1,4 @@
-name: emulatorjs
+name: dengwii-appstore-only-emulatorjs
 services:
   emulatorjs:
     environment:

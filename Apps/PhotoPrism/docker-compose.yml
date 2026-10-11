@@ -1,4 +1,4 @@
-name: photoprism
+name: dengwii-appstore-only-photoprism
 services:
   photoprism:
     environment:

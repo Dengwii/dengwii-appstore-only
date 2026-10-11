@@ -1,4 +1,4 @@
-name: weknora
+name: dengwii-appstore-only-weknora
 services:
   weknora:
     image: wechatopenai/weknora-ui:v0.2.14

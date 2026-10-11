@@ -1,4 +1,4 @@
-name: podfetch
+name: dengwii-appstore-only-podfetch
 services:
   podfetch:
     image: samuel19982/podfetch:v5.2.3

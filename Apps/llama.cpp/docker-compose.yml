@@ -1,6 +1,6 @@
 # llama.cpp — 由 casaos-pr-tool 生成
 # 商店规范: https://github.com/IceWhaleTech/CasaOS-AppStore/blob/main/docs/specs/compose-and-x-casaos.md
-name: llamacpp
+name: dengwii-appstore-only-llamacpp
 services:
   llamacpp:
     image: ghcr.io/ggml-org/llama.cpp:server

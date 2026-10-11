@@ -1,4 +1,4 @@
-name: lidarr
+name: dengwii-appstore-only-lidarr
 services:
   lidarr:
     environment:

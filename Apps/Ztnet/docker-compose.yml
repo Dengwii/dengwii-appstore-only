@@ -1,4 +1,4 @@
-name: ztnet
+name: dengwii-appstore-only-ztnet
 services:
   ztnet:
     image: sinamics/ztnet:0.7.18

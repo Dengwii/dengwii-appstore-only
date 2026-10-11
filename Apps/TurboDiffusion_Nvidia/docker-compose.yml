@@ -1,4 +1,4 @@
-name: turbodiffusion_nvidia
+name: dengwii-appstore-only-turbodiffusion_nvidia
 services:
   turbodiffusion:
     image: icewhaletech/turbodiffusion:20260312

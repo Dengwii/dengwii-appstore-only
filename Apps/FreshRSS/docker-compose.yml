@@ -1,4 +1,4 @@
-name: freshrss
+name: dengwii-appstore-only-freshrss
 services:
   freshrss:
     restart: unless-stopped

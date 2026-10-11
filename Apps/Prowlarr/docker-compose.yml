@@ -1,4 +1,4 @@
-name: prowlarr
+name: dengwii-appstore-only-prowlarr
 services:
   prowlarr:
     environment:

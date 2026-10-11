@@ -1,4 +1,4 @@
-name: maybe
+name: dengwii-appstore-only-maybe
 services:
   maybe-web:
     container_name: maybe-web

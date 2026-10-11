@@ -1,4 +1,4 @@
-name: alist
+name: dengwii-appstore-only-alist
 services:
   alist:
     image: xhofe/alist:v3.40.0

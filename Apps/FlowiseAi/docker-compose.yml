@@ -1,4 +1,4 @@
-name: flowise
+name: dengwii-appstore-only-flowise
 services:
   flowise:
     image: flowiseai/flowise:3.1.2

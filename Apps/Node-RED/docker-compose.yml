@@ -1,4 +1,4 @@
-name: node-red
+name: dengwii-appstore-only-node-red
 services:
   node-red:
     image: nodered/node-red:4.1.10

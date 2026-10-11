@@ -1,4 +1,4 @@
-name: plex
+name: dengwii-appstore-only-plex
 services:
   plex:
     devices:

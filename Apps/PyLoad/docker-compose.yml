@@ -1,4 +1,4 @@
-name: pyload
+name: dengwii-appstore-only-pyload
 services:
   pyload:
     container_name: pyload

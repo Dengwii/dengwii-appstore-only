@@ -1,4 +1,4 @@
-name: ombi
+name: dengwii-appstore-only-ombi
 services:
   ombi:
     environment:

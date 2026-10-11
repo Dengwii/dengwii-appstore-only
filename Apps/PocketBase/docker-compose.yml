@@ -1,4 +1,4 @@
-name: pocketbase
+name: dengwii-appstore-only-pocketbase
 services:
   pocketbase:
     image: argonptg/pocketbase:0.26.6

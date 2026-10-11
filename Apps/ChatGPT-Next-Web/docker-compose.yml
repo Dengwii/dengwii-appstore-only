@@ -1,4 +1,4 @@
-name: chatgpt-next-web
+name: dengwii-appstore-only-chatgpt-next-web
 services:
   chatgpt-next-web:
     environment:

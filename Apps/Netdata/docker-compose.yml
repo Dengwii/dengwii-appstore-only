@@ -1,5 +1,5 @@
 ---
-name: netdata
+name: dengwii-appstore-only-netdata
 services:
   app:
     cap_add:

@@ -1,4 +1,4 @@
-name: jenkins
+name: dengwii-appstore-only-jenkins
 services:
   jenkins:
     image: jenkins/jenkins:lts-jdk17

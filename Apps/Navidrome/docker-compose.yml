@@ -1,4 +1,4 @@
-name: navidrome
+name: dengwii-appstore-only-navidrome
 services:
   navidrome:
     container_name: navidrome

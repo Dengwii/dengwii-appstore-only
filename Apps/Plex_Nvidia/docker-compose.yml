@@ -1,4 +1,4 @@
-name: plex-nvidia
+name: dengwii-appstore-only-plex-nvidia
 services:
   plex:
     devices:

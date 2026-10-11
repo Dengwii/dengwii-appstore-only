@@ -1,4 +1,4 @@
-name: myspeed
+name: dengwii-appstore-only-myspeed
 services:
   myspeed:
     container_name: myspeed

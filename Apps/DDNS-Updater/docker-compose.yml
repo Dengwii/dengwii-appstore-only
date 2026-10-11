@@ -1,4 +1,4 @@
-name: ddns-updater
+name: dengwii-appstore-only-ddns-updater
 services:
   ddns-updater:
     image: qmcgaw/ddns-updater:v2.10.0

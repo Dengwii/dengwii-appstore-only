@@ -1,4 +1,4 @@
-name: homeassistant
+name: dengwii-appstore-only-homeassistant
 services:
   homeassistant:
     environment:

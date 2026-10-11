@@ -1,4 +1,4 @@
-name: etherpad
+name: dengwii-appstore-only-etherpad
 services:
   etherpad:
     image: etherpad/etherpad:3.1.0

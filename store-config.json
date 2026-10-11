@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "store_id": "appstore-d-test",
-  "name": "AppStore-D-Test",
-  "description": "测试专用",
+  "store_id": "dengwii-appstore-only",
+  "name": {
+    "en_US": "Dengwii AppStore Only",
+    "zh_CN": "Dengwii 独立应用商店"
+  },
+  "description": {
+    "en_US": "A standalone app store whose Compose project names are globally prefixed for source-isolation testing.",
+    "zh_CN": "用于商店源隔离测试的独立应用商店，所有 Compose 项目名均带有全局唯一前缀。"
+  },
   "maintainer": "Dengwii",
-  "url": "https://github.com/Dengwii/CasaOS-AppStore"
+  "url": "https://github.com/Dengwii/dengwii-appstore-only"
 }

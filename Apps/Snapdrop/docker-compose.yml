@@ -1,4 +1,4 @@
-name: snapdrop
+name: dengwii-appstore-only-snapdrop
 services:
   snapdrop:
     environment:

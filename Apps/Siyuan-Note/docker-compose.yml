@@ -1,4 +1,4 @@
-name: siyuan-note
+name: dengwii-appstore-only-siyuan-note
 services:
   siyuan-note:
     command:

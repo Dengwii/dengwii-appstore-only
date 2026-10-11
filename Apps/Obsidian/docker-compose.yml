@@ -1,4 +1,4 @@
-name: obsidian
+name: dengwii-appstore-only-obsidian
 services:
   obsidian:
     image: lscr.io/linuxserver/obsidian:1.12.7

@@ -1,4 +1,4 @@
-name: wg-easy
+name: dengwii-appstore-only-wg-easy
 services:
   wg-easy:
     image: ghcr.io/wg-easy/wg-easy:13

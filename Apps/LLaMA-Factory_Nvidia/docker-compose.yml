@@ -1,4 +1,4 @@
-name: llama-factory-nvidia
+name: dengwii-appstore-only-llama-factory-nvidia
 services:
   llama-factory-nvidia:
     image: hiyouga/llamafactory:0.9.4

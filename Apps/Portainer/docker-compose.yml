@@ -1,4 +1,4 @@
-name: portainer
+name: dengwii-appstore-only-portainer
 services:
   portainer:
     image: portainer/portainer-ce:2.31.3

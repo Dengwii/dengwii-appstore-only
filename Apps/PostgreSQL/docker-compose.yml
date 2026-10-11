@@ -1,4 +1,4 @@
-name: postgresql
+name: dengwii-appstore-only-postgresql
 services:
   postgresql:
     environment:

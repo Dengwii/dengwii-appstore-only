@@ -1,4 +1,4 @@
-name: 2fauth
+name: dengwii-appstore-only-2fauth
 services:
   2fauth:
     image: 2fauth/2fauth:6.1.3

@@ -1,4 +1,4 @@
-name: duplicati
+name: dengwii-appstore-only-duplicati
 services:
   duplicati:
     environment:

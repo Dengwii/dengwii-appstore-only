@@ -1,4 +1,4 @@
-name: gopeed
+name: dengwii-appstore-only-gopeed
 services:
   gopeed:
     container_name: gopeed

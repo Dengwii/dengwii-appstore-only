@@ -1,4 +1,4 @@
-name: lazylibrarian
+name: dengwii-appstore-only-lazylibrarian
 services:
   lazylibrarian:
     environment:

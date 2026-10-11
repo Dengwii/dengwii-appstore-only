@@ -1,4 +1,4 @@
-name: albyhub
+name: dengwii-appstore-only-albyhub
 services:
   albyhub:
     environment:

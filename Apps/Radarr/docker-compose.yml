@@ -1,4 +1,4 @@
-name: radarr
+name: dengwii-appstore-only-radarr
 services:
   radarr:
     environment:

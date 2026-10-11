@@ -1,4 +1,4 @@
-name: mineos-node
+name: dengwii-appstore-only-mineos-node
 # Base file from: https://github.com/hexparrot/mineos-node/blob/master/docker-compose.yml
 
 services:

@@ -1,4 +1,4 @@
-name: nzbget
+name: dengwii-appstore-only-nzbget
 services:
   nzbget:
     environment:

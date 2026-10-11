@@ -1,4 +1,4 @@
-name: beaverhabittracker
+name: dengwii-appstore-only-beaverhabittracker
 services:
   beaverhabittracker:
     image: daya0576/beaverhabits:0.9.1

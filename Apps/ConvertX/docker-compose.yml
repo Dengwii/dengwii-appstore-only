@@ -1,4 +1,4 @@
-name: convertx
+name: dengwii-appstore-only-convertx
 services:
   convertx:
     image: c4illin/convertx:v0.17.0

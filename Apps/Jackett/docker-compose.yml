@@ -1,4 +1,4 @@
-name: jackett
+name: dengwii-appstore-only-jackett
 services:
   jackett:
     environment:

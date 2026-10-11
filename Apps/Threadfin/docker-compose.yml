@@ -1,4 +1,4 @@
-name: threadfin
+name: dengwii-appstore-only-threadfin
 services:
   threadfin:
     image: fyb3roptik/threadfin:1.2.37

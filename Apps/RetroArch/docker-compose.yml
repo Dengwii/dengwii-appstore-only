@@ -1,4 +1,4 @@
-name: retroarch
+name: dengwii-appstore-only-retroarch
 services:
   retroarch:
     image: inglebard/retroarch-web:latest

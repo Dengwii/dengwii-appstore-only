@@ -1,4 +1,4 @@
-name: jdownloader2
+name: dengwii-appstore-only-jdownloader2
 services:
   jdownloader2:
     image: jlesage/jdownloader-2:latest

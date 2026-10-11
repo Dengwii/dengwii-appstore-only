@@ -1,4 +1,4 @@
-name: teable
+name: dengwii-appstore-only-teable
 services:
   teable:
     image: teableio/teable:latest

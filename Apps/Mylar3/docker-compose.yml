@@ -1,4 +1,4 @@
-name: mylar3
+name: dengwii-appstore-only-mylar3
 services:
   mylar3:
     environment:

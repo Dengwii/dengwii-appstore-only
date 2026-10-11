@@ -427,7 +427,7 @@ services:
 networks:
   linkwarden-net:
     driver: bridge
-name: linkwarden
+name: dengwii-appstore-only-linkwarden
 x-casaos:
   id: org.icewhale.linkwarden
   title:

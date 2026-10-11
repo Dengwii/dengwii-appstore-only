@@ -1,4 +1,4 @@
-name: psitransfer
+name: dengwii-appstore-only-psitransfer
 services:
   psitransfer:
     image: psitrax/psitransfer:v2.4.1

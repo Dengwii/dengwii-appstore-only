@@ -1,4 +1,4 @@
-name: emby-nvidia
+name: dengwii-appstore-only-emby-nvidia
 services:
   emby:
     devices:

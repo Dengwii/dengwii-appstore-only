@@ -1,4 +1,4 @@
-name: pihole
+name: dengwii-appstore-only-pihole
 services:
   pihole:
     environment:

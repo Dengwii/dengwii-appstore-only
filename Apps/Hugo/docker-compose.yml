@@ -1,4 +1,4 @@
-name: hugo
+name: dengwii-appstore-only-hugo
 services:
   hugo:
     image: ghcr.io/gohugoio/hugo:v0.161.1

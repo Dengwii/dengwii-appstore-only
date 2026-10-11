@@ -1,4 +1,4 @@
-name: syncthing
+name: dengwii-appstore-only-syncthing
 services:
   syncthing:
     environment:

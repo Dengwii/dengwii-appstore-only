@@ -1,4 +1,4 @@
-name: jellyfin
+name: dengwii-appstore-only-jellyfin
 services:
   jellyfin:
     devices:

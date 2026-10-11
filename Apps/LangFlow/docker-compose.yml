@@ -1,4 +1,4 @@
-name: langflow
+name: dengwii-appstore-only-langflow
 services:
   langflow:
     container_name: langflow

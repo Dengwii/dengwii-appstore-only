@@ -1,4 +1,4 @@
-name: lucky
+name: dengwii-appstore-only-lucky
 services:
   lucky:
     deploy:

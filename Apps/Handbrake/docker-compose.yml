@@ -1,4 +1,4 @@
-name: handbrake
+name: dengwii-appstore-only-handbrake
 services:
   handbrake:
     image: jlesage/handbrake:v26.03.3

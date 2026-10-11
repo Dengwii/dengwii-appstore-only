@@ -1,4 +1,4 @@
-name: docmost
+name: dengwii-appstore-only-docmost
 services:
   docmost:
     image: docmost/docmost:0.90.0

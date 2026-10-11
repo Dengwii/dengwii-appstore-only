@@ -1,4 +1,4 @@
-name: bentopdf
+name: dengwii-appstore-only-bentopdf
 services:
   bentopdf:
     container_name: bentopdf

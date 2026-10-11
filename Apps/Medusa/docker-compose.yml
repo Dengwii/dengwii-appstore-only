@@ -1,4 +1,4 @@
-name: medusa
+name: dengwii-appstore-only-medusa
 services:
   medusa:
     container_name: medusa

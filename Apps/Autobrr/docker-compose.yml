@@ -1,4 +1,4 @@
-name: autobrr
+name: dengwii-appstore-only-autobrr
 services:
   autobrr:
     container_name: autobrr

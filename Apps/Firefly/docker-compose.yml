@@ -1,5 +1,5 @@
 version: "3"
-name: firefly
+name: dengwii-appstore-only-firefly
 services:
   firefly:
     image: "uusec/firefly:latest"

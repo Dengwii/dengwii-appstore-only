@@ -1,4 +1,4 @@
-name: romm
+name: dengwii-appstore-only-romm
 services:
   romm:
     image: rommapp/romm:4.8.1

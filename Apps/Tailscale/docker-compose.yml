@@ -1,4 +1,4 @@
-name: tailscale
+name: dengwii-appstore-only-tailscale
 services:
   tailscale:
     image: tailscale/tailscale:v1.98.3

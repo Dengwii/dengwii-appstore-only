@@ -1,4 +1,4 @@
-name: qbittorrent
+name: dengwii-appstore-only-qbittorrent
 services:
   qbittorrent:
     environment:

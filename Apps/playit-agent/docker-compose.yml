@@ -1,4 +1,4 @@
-name: playit-agent
+name: dengwii-appstore-only-playit-agent
 services:
   playit-agent:
     restart: unless-stopped

@@ -1,4 +1,4 @@
-name: readarr
+name: dengwii-appstore-only-readarr
 services:
   readarr:
     environment:

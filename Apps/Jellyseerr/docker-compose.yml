@@ -1,4 +1,4 @@
-name: jellyseerr
+name: dengwii-appstore-only-jellyseerr
 services:
   jellyseerr:
     cpu_shares: 50

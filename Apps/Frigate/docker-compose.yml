@@ -1,4 +1,4 @@
-name: frigate
+name: dengwii-appstore-only-frigate
 services:
   frigate:
     container_name: frigate

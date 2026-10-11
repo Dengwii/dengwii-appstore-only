@@ -1,4 +1,4 @@
-name: calibre-web
+name: dengwii-appstore-only-calibre-web
 services:
   calibre-web:
     environment:

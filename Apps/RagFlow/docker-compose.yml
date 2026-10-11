@@ -1,4 +1,4 @@
-name: ragflow
+name: dengwii-appstore-only-ragflow
 services:
   ragflow:
     container_name: ragflow-server

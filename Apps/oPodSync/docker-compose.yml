@@ -1,4 +1,4 @@
-name: opodsync
+name: dengwii-appstore-only-opodsync
 
 services:
   opodsync:

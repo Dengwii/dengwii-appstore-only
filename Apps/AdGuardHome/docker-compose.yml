@@ -1,4 +1,4 @@
-name: adguard-home
+name: dengwii-appstore-only-adguard-home
 services:
   adguard-home:
     image: adguard/adguardhome:v0.107.79

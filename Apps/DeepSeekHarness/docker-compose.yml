@@ -1,4 +1,4 @@
-name: dsh-harness
+name: dengwii-appstore-only-dsh-harness
 services:
   dsh:
     command: null

@@ -1,4 +1,4 @@
-name: netronome
+name: dengwii-appstore-only-netronome
 
 services:
   netronome:

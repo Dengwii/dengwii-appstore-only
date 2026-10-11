@@ -1,4 +1,4 @@
-name: karakeep
+name: dengwii-appstore-only-karakeep
 services:
   karakeep:
     image: ghcr.io/karakeep-app/karakeep:0.33.2

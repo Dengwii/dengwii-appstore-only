@@ -1,4 +1,4 @@
-name: copyparty
+name: dengwii-appstore-only-copyparty
 services:
   copyparty:
     image: icewhaletech/copyparty:1.20.13

@@ -1,4 +1,4 @@
-name: overseerr
+name: dengwii-appstore-only-overseerr
 services:
   overseerr:
     image: linuxserver/overseerr:1.35.0

@@ -1,4 +1,4 @@
-name: ollama
+name: dengwii-appstore-only-ollama
 services:
   ollama:
     image: ollama/ollama:0.24.0

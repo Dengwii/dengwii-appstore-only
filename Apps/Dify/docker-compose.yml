@@ -1,4 +1,4 @@
-name: dify
+name: dengwii-appstore-only-dify
 services:
   config:
     container_name: dify-config

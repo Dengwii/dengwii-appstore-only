@@ -1,4 +1,4 @@
-name: stremio
+name: dengwii-appstore-only-stremio
 services:
   stremio:
     container_name: stremio

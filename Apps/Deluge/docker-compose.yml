@@ -1,4 +1,4 @@
-name: deluge
+name: dengwii-appstore-only-deluge
 services:
   deluge:
     environment:

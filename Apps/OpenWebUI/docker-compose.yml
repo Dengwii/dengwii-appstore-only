@@ -1,4 +1,4 @@
-name: open-webui-ollama
+name: dengwii-appstore-only-open-webui-ollama
 services:
   open-webui-ollama:
     image: ghcr.io/open-webui/open-webui:ollama

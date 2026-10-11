@@ -1,4 +1,4 @@
-name: vaultwarden
+name: dengwii-appstore-only-vaultwarden
 services:
   vaultwarden:
     image: vaultwarden/server:1.36.0

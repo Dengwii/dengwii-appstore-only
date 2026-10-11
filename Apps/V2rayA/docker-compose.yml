@@ -1,4 +1,4 @@
-name: v2raya
+name: dengwii-appstore-only-v2raya
 services:
   v2raya:
     image: mzz2017/v2raya:v2.2.7.5

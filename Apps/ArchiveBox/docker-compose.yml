@@ -1,4 +1,4 @@
-name: archivebox
+name: dengwii-appstore-only-archivebox
 services:
   archivebox:
     image: archivebox/archivebox:0.7.4

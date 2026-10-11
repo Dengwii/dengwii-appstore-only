@@ -1,4 +1,4 @@
-name: monica
+name: dengwii-appstore-only-monica
 services:
   monica:
     image: monica:4.1.2

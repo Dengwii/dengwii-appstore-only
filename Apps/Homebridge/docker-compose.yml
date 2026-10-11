@@ -1,4 +1,4 @@
-name: homebridge
+name: dengwii-appstore-only-homebridge
 version: '2'
 services:
   homebridge:

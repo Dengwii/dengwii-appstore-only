@@ -1,4 +1,4 @@
-name: roonserver
+name: dengwii-appstore-only-roonserver
 services:
   roonserver:
     image: ghcr.io/roonlabs/roonserver:1.0.8

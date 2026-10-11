@@ -1,4 +1,4 @@
-name: nginxproxymanager
+name: dengwii-appstore-only-nginxproxymanager
 services:
   nginxproxymanager:
     image: jc21/nginx-proxy-manager:2.13.5

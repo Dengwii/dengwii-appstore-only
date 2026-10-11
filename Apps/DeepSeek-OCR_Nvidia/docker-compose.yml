@@ -1,4 +1,4 @@
-name: deepseek-ocr-nvidia
+name: dengwii-appstore-only-deepseek-ocr-nvidia
 
 services:
   deepseek-ocr-backend:

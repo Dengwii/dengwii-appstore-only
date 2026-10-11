@@ -1,4 +1,4 @@
-name: taskingai
+name: dengwii-appstore-only-taskingai
 services:
   frontend:
     image: taskingai/taskingai-console:v0.3.0

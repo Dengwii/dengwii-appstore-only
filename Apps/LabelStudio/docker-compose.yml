@@ -1,4 +1,4 @@
-name: label-studio
+name: dengwii-appstore-only-label-studio
 services:
   label-studio:
     environment:

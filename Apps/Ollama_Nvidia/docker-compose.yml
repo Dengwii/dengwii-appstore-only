@@ -1,4 +1,4 @@
-name: ollama-nvidia
+name: dengwii-appstore-only-ollama-nvidia
 services:
   ollama:
     image: ollama/ollama:0.9.5

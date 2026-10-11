@@ -1,4 +1,4 @@
-name: fileflows
+name: dengwii-appstore-only-fileflows
 services:
   fileflows:
     container_name: fileflows

@@ -1,4 +1,4 @@
-name: gateway-go
+name: dengwii-appstore-only-gateway-go
 services:
   gateway-go:
     image: openiothub/gateway-go:v2.0.12

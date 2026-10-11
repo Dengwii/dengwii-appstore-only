@@ -135,7 +135,7 @@ services:
             sv_SE: Lagrar OpenClaws konfigurationsfiler och beständiga data.
             tr_TR: OpenClaw'un yapılandırma dosyalarını ve kalıcı verilerini depolar.
             zh_CN: 存储 OpenClaw 的配置文件和持久数据。
-name: openclaw
+name: dengwii-appstore-only-openclaw
 x-casaos:
   id: org.icewhale.openclaw
   title:

@@ -1,4 +1,4 @@
-name: sabnzbd
+name: dengwii-appstore-only-sabnzbd
 services:
   sabnzbd:
     environment:

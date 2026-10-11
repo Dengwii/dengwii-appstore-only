@@ -1,4 +1,4 @@
-name: esphome
+name: dengwii-appstore-only-esphome
 services:
   esphome:
     container_name: esphome

@@ -1,4 +1,4 @@
-name: libredb-studio
+name: dengwii-appstore-only-libredb-studio
 services:
   libredb-studio:
     image: libredb/libredb-studio:0.13.7

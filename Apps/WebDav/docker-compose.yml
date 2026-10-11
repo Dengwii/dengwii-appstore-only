@@ -1,4 +1,4 @@
-name: webdav
+name: dengwii-appstore-only-webdav
 services:
   webdav:
     cpu_shares: 90

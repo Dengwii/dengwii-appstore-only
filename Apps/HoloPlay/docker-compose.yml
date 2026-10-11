@@ -1,4 +1,4 @@
-name: holoplay
+name: dengwii-appstore-only-holoplay
 services:
   holoplay:
     image: spout8301/holoplay:1.12.3

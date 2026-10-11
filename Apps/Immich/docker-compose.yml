@@ -1,4 +1,4 @@
-name: immich
+name: dengwii-appstore-only-immich
 
 services:
   immich-server:

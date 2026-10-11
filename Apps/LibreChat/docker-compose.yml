@@ -1,4 +1,4 @@
-name: librechat
+name: dengwii-appstore-only-librechat
 services:
   librechat-api:
     container_name: librechat-api

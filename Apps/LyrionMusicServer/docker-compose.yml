@@ -1,4 +1,4 @@
-name: lyrionmusicserver
+name: dengwii-appstore-only-lyrionmusicserver
 services:
   lyrionmusicserver:
     image: lmscommunity/lyrionmusicserver:9.1.1

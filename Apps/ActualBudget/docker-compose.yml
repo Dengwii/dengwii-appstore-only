@@ -1,4 +1,4 @@
-name: actualbudget
+name: dengwii-appstore-only-actualbudget
 services:
   actualbudget:
     image: actualbudget/actual-server:26.5.2

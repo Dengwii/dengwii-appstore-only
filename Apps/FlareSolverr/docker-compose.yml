@@ -1,4 +1,4 @@
-name: flaresolverr
+name: dengwii-appstore-only-flaresolverr
 services:
   flaresolverr:
     environment:

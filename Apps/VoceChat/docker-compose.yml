@@ -1,4 +1,4 @@
-name: vocechat
+name: dengwii-appstore-only-vocechat
 services:
   vocechat:
     environment:

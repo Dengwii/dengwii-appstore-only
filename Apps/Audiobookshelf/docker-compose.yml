@@ -1,4 +1,4 @@
-name: audiobookshelf
+name: dengwii-appstore-only-audiobookshelf
 services:
   audiobookshelf:
     image: ghcr.io/advplyr/audiobookshelf:2.35.0

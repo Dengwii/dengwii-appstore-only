@@ -1,4 +1,4 @@
-name: glances
+name: dengwii-appstore-only-glances
 services:
   glances:
     container_name: glances

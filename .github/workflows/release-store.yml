@@ -13,7 +13,7 @@ on:
       base_url:
         description: "Base URL used by the build action"
         required: false
-        default: "https://raw.githubusercontent.com/Dengwii/CasaOS-AppStore/refs/heads/gh-pages"
+        default: "https://cdn.jsdelivr.net/gh/Dengwii/dengwii-appstore-only@gh-pages"
       purge_only:
         description: "Refresh jsDelivr paths from the latest gh-pages deployment without rebuilding"
         required: false
@@ -53,7 +53,7 @@ jobs:
         with:
           source: .
           output: dist
-          base-url: ${{ inputs.base_url || 'https://raw.githubusercontent.com/Dengwii/CasaOS-AppStore/refs/heads/gh-pages' }}
+          base-url: ${{ inputs.base_url || 'https://cdn.jsdelivr.net/gh/Dengwii/dengwii-appstore-only@gh-pages' }}
           cache-file: .cache/build_appstore/image-size-cache.json
           digest-cache-file: .cache/build_appstore/image-digest-cache.json
           report-json: out/build-v2-report.json
@@ -79,10 +79,6 @@ jobs:
       - name: Disable Jekyll
         run: |
           touch dist/.nojekyll
-
-      - name: Write custom domain file
-        run: |
-          printf 'casaos.app\n' > dist/CNAME
 
       - name: Build legacy v1 appstore zip
         id: build_v1

@@ -1,4 +1,4 @@
-name: logseq
+name: dengwii-appstore-only-logseq
 services:
   logseq:
     environment:

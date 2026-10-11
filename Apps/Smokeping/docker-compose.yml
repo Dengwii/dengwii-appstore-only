@@ -1,4 +1,4 @@
-name: smokeping
+name: dengwii-appstore-only-smokeping
 services:
   smokeping:
     environment:

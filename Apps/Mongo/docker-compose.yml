@@ -1,4 +1,4 @@
-name: mongodb
+name: dengwii-appstore-only-mongodb
 services:
   mongo:
     image: mongo:8.2.2

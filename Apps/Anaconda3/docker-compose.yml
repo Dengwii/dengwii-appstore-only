@@ -1,4 +1,4 @@
-name: anaconda3
+name: dengwii-appstore-only-anaconda3
 services:
   anaconda3:
     container_name: anaconda3

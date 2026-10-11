@@ -1,4 +1,4 @@
-name: wallabag
+name: dengwii-appstore-only-wallabag
 services:
   wallabag:
     image: wallabag/wallabag:2.6.14

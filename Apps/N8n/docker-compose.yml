@@ -1,4 +1,4 @@
-name: n8n
+name: dengwii-appstore-only-n8n
 services:
   n8n:
     environment:

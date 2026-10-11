@@ -1,4 +1,4 @@
-name: jellyfin-nvidia
+name: dengwii-appstore-only-jellyfin-nvidia
 services:
   jellyfin:
     devices:

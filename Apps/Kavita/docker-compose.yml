@@ -1,4 +1,4 @@
-name: kavita
+name: dengwii-appstore-only-kavita
 services:
   kavita:
     image: jvmilazz0/kavita:0.9.0.2

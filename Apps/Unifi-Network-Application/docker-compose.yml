@@ -1,4 +1,4 @@
-name: unifi-network-application
+name: dengwii-appstore-only-unifi-network-application
 services:
   unifi-network-application:
     container_name: unifi-network-application

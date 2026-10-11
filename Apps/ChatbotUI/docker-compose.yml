@@ -1,4 +1,4 @@
-name: chatbot-ui
+name: dengwii-appstore-only-chatbot-ui
 services:
   chatbot-ui:
     environment:

@@ -1,4 +1,4 @@
-name: pinchflat
+name: dengwii-appstore-only-pinchflat
 services:
   pinchflat:
     image: ghcr.io/kieraneglin/pinchflat:latest

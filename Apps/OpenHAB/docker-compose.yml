@@ -1,4 +1,4 @@
-name: openhab
+name: dengwii-appstore-only-openhab
 services:
   openhab:
     environment:

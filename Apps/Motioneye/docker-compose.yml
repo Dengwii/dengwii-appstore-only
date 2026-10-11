@@ -1,4 +1,4 @@
-name: motioneye
+name: dengwii-appstore-only-motioneye
 services:
   motioneye:
     container_name: motioneye

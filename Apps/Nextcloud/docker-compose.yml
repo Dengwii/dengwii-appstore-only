@@ -1,4 +1,4 @@
-name: nextcloud
+name: dengwii-appstore-only-nextcloud
 services:
   nextcloud:
     image: nextcloud:33.0.3

@@ -1,4 +1,4 @@
-name: twingate-connector
+name: dengwii-appstore-only-twingate-connector
 services:
   twingate-connector:
     image: twingate/connector:1

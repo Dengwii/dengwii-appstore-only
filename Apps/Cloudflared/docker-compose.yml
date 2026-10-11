@@ -1,4 +1,4 @@
-name: cloudflared
+name: dengwii-appstore-only-cloudflared
 services:
   cloudflared:
     image: wisdomsky/cloudflared-web:2026.5.0

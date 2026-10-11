@@ -1,4 +1,4 @@
-name: downtify
+name: dengwii-appstore-only-downtify
 services:
   downtify:
     environment:
