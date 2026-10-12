@@ -56,3 +56,9 @@ runs:
         digest-cache-file: ${{ inputs.digest-cache-file }}
         report-json: ${{ inputs.report-json }}
         report-title: ${{ inputs.report-title }}
+
+    - name: Preserve versionless cross-source fixture
+      shell: bash
+      run: |
+        python3 "${{ github.action_path }}/../../../scripts/normalize_versionless_fixture.py" \
+          "${{ inputs.output }}"
