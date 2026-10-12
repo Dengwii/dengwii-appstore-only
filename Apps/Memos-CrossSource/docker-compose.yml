@@ -5,7 +5,7 @@ services:
       PGID: $PGID
       PUID: $PUID
       TZ: $TZ
-    image: neosmemo/memos:0.28.0
+    image: neosmemo/memos:0.31.0
     deploy:
       resources:
         reservations:
@@ -242,4 +242,3 @@ x-casaos:
   repo: "https://github.com/usememos/memos"
   support: "https://github.com/usememos/memos/issues"
   docs: "https://www.usememos.com/docs"
-
