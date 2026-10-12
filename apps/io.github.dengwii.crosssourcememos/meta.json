@@ -25,7 +25,6 @@
   "release_note": "- v0.28.0 improves SSO account handling by linking external provider identities to local Memos users.\n- The release redesigns account and SSO management and adds memo created/updated time display controls.\n- Fixes include authorization hardening, legacy username auth flows, markdown mixed-list handling, list query overhead, and task checkbox state preservation.",
   "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/dengwii-appstore-only@gh-pages",
   "id": "io.github.dengwii.crosssourcememos",
-  "version": "",
   "categories": [
     "productivity"
   ],
