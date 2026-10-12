@@ -1,7 +1,7 @@
 name: dengwii-appstore-only-podfetch
 services:
   podfetch:
-    image: samuel19982/podfetch:v5.2.3
+    image: samuel19982/podfetch:v5.2.3@sha256:ee33ea2f794448153c6f96977e6dde82a48cf67d376a29244c2660125ac6abd4
     environment:
       DATABASE_URL: sqlite:///app/db/podcast.db
       POLLING_INTERVAL: "300"

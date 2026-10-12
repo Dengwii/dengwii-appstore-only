@@ -1,7 +1,7 @@
 name: dengwii-appstore-only-teable
 services:
   teable:
-    image: teableio/teable:latest
+    image: teableio/teable:latest@sha256:ac0dd43caaa3fb4fe83170a4388ac101ca057f81f582a736ef7a73011c6d3abd
     container_name: teable
     restart: unless-stopped
     deploy:
@@ -31,7 +31,7 @@ services:
       teable-cache:
         condition: service_healthy
   teable-db:
-    image: postgres:15
+    image: postgres:15@sha256:7edb00ef081f792e6b08ff2990bb72de1b842581de7cfe516d63c9ce293b26ab
     restart: unless-stopped
     container_name: teable-db
     deploy:
@@ -57,7 +57,7 @@ services:
       timeout: 3s
       retries: 3
   teable-cache:
-    image: redis:7.2.4
+    image: redis:7.2.4@sha256:4da694ba727afad9a027c075a3e32356affea4db13482d489822107dcf09d4ed
     restart: unless-stopped
     container_name: teable-cache
     deploy:

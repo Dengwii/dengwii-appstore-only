@@ -2,7 +2,7 @@ name: dengwii-appstore-only-pyload
 services:
   pyload:
     container_name: pyload
-    image: linuxserver/pyload-ng:0.5.0
+    image: linuxserver/pyload-ng:0.5.0@sha256:848bcbe2fb1302d95b7a6c427d455a9d09a203c99e894cace3772a4cfe6632ec
     deploy:
       resources:
         reservations:

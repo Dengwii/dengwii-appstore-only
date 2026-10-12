@@ -1,6 +1,10 @@
 {
   "apps": [
     {
+      "id": "io.github.dengwii.crosssourcememos",
+      "tagline": "Memos è un hub di memo leggero e auto-ospitato. Open Source e gratuito per sempre."
+    },
+    {
       "id": "org.icewhale.2fauth",
       "tagline": "Un'applicazione web per gestire i tuoi account di autenticazione a due fattori (2FA) e generare i loro codici di sicurezza"
     },
@@ -22,8 +26,8 @@
     },
     {
       "id": "org.icewhale.archivebox",
-      "title": "ArchiveBox",
-      "tagline": "Soluzione di archiviazione internet self-hosted"
+      "tagline": "Soluzione di archiviazione internet self-hosted",
+      "title": "ArchiveBox"
     },
     {
       "id": "org.icewhale.audiobookshelf",
@@ -59,13 +63,13 @@
     },
     {
       "id": "org.icewhale.copyparty",
-      "title": "CopyParty",
-      "tagline": "Un server di file semplice e privato."
+      "tagline": "Un server di file semplice e privato.",
+      "title": "CopyParty"
     },
     {
       "id": "org.icewhale.deepseekocrnvidia",
-      "title": "DeepSeek OCR(Nvidia GPU)",
-      "tagline": "OCR potente alimentato da DeepSeek AI"
+      "tagline": "OCR potente alimentato da DeepSeek AI",
+      "title": "DeepSeek OCR(Nvidia GPU)"
     },
     {
       "id": "org.icewhale.deluge",
@@ -125,8 +129,8 @@
     },
     {
       "id": "org.icewhale.frigate",
-      "title": "Frigate",
-      "tagline": "Monitora le tue telecamere di sicurezza con IA elaborata localmente"
+      "tagline": "Monitora le tue telecamere di sicurezza con IA elaborata localmente",
+      "title": "Frigate"
     },
     {
       "id": "org.icewhale.gitea",
@@ -162,13 +166,13 @@
     },
     {
       "id": "org.icewhale.indextts",
-      "title": "Index-TTS",
-      "tagline": "Un sistema di sintesi vocale zero-shot controllabile ed efficiente di livello industriale"
+      "tagline": "Un sistema di sintesi vocale zero-shot controllabile ed efficiente di livello industriale",
+      "title": "Index-TTS"
     },
     {
       "id": "org.icewhale.indexttsnvidia",
-      "title": "Index-TTS(Nvidia GPU)",
-      "tagline": "Un sistema di sintesi vocale zero-shot controllabile ed efficiente di livello industriale"
+      "tagline": "Un sistema di sintesi vocale zero-shot controllabile ed efficiente di livello industriale",
+      "title": "Index-TTS(Nvidia GPU)"
     },
     {
       "id": "org.icewhale.jackett",
@@ -204,8 +208,8 @@
     },
     {
       "id": "org.icewhale.langflow",
-      "title": "Langflow",
-      "tagline": "Interfaccia open-source per la creazione e il debug di applicazioni multi-agente e RAG"
+      "tagline": "Interfaccia open-source per la creazione e il debug di applicazioni multi-agente e RAG",
+      "title": "Langflow"
     },
     {
       "id": "org.icewhale.lazylibrarian",
@@ -213,8 +217,8 @@
     },
     {
       "id": "org.icewhale.librechat",
-      "title": "LibreChat",
-      "tagline": "Un'interfaccia chat AI completa e open-source"
+      "tagline": "Un'interfaccia chat AI completa e open-source",
+      "title": "LibreChat"
     },
     {
       "id": "org.icewhale.lidarr",
@@ -222,18 +226,18 @@
     },
     {
       "id": "org.icewhale.linkwarden",
-      "title": "Linkwarden",
-      "tagline": "Gestore collaborativo di segnalibri self-hosted per raccogliere, leggere, annotare e conservare completamente ciò che conta, tutto in un unico posto."
+      "tagline": "Gestore collaborativo di segnalibri self-hosted per raccogliere, leggere, annotare e conservare completamente ciò che conta, tutto in un unico posto.",
+      "title": "Linkwarden"
     },
     {
       "id": "org.icewhale.llamacpp",
-      "title": "llama.cpp",
-      "tagline": "Esegui LLM GGUF in locale con accelerazione GPU"
+      "tagline": "Esegui LLM GGUF in locale con accelerazione GPU",
+      "title": "llama.cpp"
     },
     {
       "id": "org.icewhale.llamafactorynvidia",
-      "title": "LLaMA Factory(Nvidia GPU)",
-      "tagline": "Fine-Tuning unificato di LLM con 100+ modelli"
+      "tagline": "Fine-Tuning unificato di LLM con 100+ modelli",
+      "title": "LLaMA Factory(Nvidia GPU)"
     },
     {
       "id": "org.icewhale.lyrionmusicserver",
@@ -245,8 +249,8 @@
     },
     {
       "id": "org.icewhale.maybe",
-      "title": "Maybe",
-      "tagline": "Applicazione di gestione finanze personali"
+      "tagline": "Applicazione di gestione finanze personali",
+      "title": "Maybe"
     },
     {
       "id": "org.icewhale.memos",
@@ -310,8 +314,8 @@
     },
     {
       "id": "org.icewhale.openclaw",
-      "title": "OpenClaw",
-      "tagline": "OpenClaw è un assistente AI personale che puoi eseguire sui tuoi dispositivi."
+      "tagline": "OpenClaw è un assistente AI personale che puoi eseguire sui tuoi dispositivi.",
+      "title": "OpenClaw"
     },
     {
       "id": "org.icewhale.openhab",
@@ -319,8 +323,8 @@
     },
     {
       "id": "org.icewhale.openhands",
-      "title": "OpenHands",
-      "tagline": "Assistente per la programmazione basato su AI open source"
+      "tagline": "Assistente per la programmazione basato su AI open source",
+      "title": "OpenHands"
     },
     {
       "id": "org.icewhale.openlist",
@@ -336,8 +340,8 @@
     },
     {
       "id": "org.icewhale.opodsync",
-      "title": "oPodSync",
-      "tagline": "Servizio di sincronizzazione podcast"
+      "tagline": "Servizio di sincronizzazione podcast",
+      "title": "oPodSync"
     },
     {
       "id": "org.icewhale.overseerr",
@@ -349,8 +353,8 @@
     },
     {
       "id": "org.icewhale.peanut",
-      "title": "PeaNUT",
-      "tagline": "Sistema di monitoraggio UPS e notifica interruzione di corrente"
+      "tagline": "Sistema di monitoraggio UPS e notifica interruzione di corrente",
+      "title": "PeaNUT"
     },
     {
       "id": "org.icewhale.petio",
@@ -370,8 +374,8 @@
     },
     {
       "id": "org.icewhale.pingvinshare",
-      "title": "Pingvin-Share",
-      "tagline": "Condivisione file self-hosted con interfaccia web moderna"
+      "tagline": "Condivisione file self-hosted con interfaccia web moderna",
+      "title": "Pingvin-Share"
     },
     {
       "id": "org.icewhale.playitagent",
@@ -391,8 +395,8 @@
     },
     {
       "id": "org.icewhale.psitransfer",
-      "title": "PsiTransfer",
-      "tagline": "Un host per la condivisione di file semplice e open source."
+      "tagline": "Un host per la condivisione di file semplice e open source.",
+      "title": "PsiTransfer"
     },
     {
       "id": "org.icewhale.qbittorrent",
@@ -404,8 +408,8 @@
     },
     {
       "id": "org.icewhale.ragflow",
-      "title": "RagFlow",
-      "tagline": "RagFlow è un motore RAG open source basato sulla comprensione approfondita dei documenti."
+      "tagline": "RagFlow è un motore RAG open source basato sulla comprensione approfondita dei documenti.",
+      "title": "RagFlow"
     },
     {
       "id": "org.icewhale.readarr",
@@ -445,8 +449,8 @@
     },
     {
       "id": "org.icewhale.sure",
-      "title": "Sure",
-      "tagline": "Applicazione di gestione finanze personali"
+      "tagline": "Applicazione di gestione finanze personali",
+      "title": "Sure"
     },
     {
       "id": "org.icewhale.swingmusic",
@@ -466,8 +470,8 @@
     },
     {
       "id": "org.icewhale.teable",
-      "title": "Teable",
-      "tagline": "Teable adotta un'interfaccia foglio di calcolo concisa, ma crea potenti applicazioni di database"
+      "tagline": "Teable adotta un'interfaccia foglio di calcolo concisa, ma crea potenti applicazioni di database",
+      "title": "Teable"
     },
     {
       "id": "org.icewhale.transmission",
@@ -479,8 +483,8 @@
     },
     {
       "id": "org.icewhale.turbodiffusionnvidia",
-      "title": "TurboDiffusion(Nvidia GPU)",
-      "tagline": "Un framework di accelerazione per la generazione end-to-end tramite diffusione mantenendo la qualità video"
+      "tagline": "Un framework di accelerazione per la generazione end-to-end tramite diffusione mantenendo la qualità video",
+      "title": "TurboDiffusion(Nvidia GPU)"
     },
     {
       "id": "org.icewhale.unificontroller",
@@ -516,8 +520,8 @@
     },
     {
       "id": "org.icewhale.weknora",
-      "title": "WeKnora",
-      "tagline": "WeKnora è un framework basato su LLM progettato per la comprensione approfondita dei documenti e il reperimento semantico, specificamente per la gestione di documenti complessi ed eterogenei."
+      "tagline": "WeKnora è un framework basato su LLM progettato per la comprensione approfondita dei documenti e il reperimento semantico, specificamente per la gestione di documenti complessi ed eterogenei.",
+      "title": "WeKnora"
     },
     {
       "id": "org.icewhale.wgeasy",

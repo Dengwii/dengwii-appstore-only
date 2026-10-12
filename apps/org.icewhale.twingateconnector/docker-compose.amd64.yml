@@ -1,7 +1,7 @@
 name: dengwii-appstore-only-twingate-connector
 services:
   twingate-connector:
-    image: twingate/connector:1
+    image: twingate/connector:1@sha256:7d46960eacb2634f8cdc641478209bdefe8b27f9d3d797abc0f5fa8638441416
     container_name: twingate-connector
     command:
       - /connectord

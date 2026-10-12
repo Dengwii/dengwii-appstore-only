@@ -1,7 +1,7 @@
 name: dengwii-appstore-only-snapotter
 services:
   snapotter:
-    image: snapotter/snapotter:2.2.0
+    image: snapotter/snapotter:2.2.0@sha256:a193312e4a77594eb1ec2cde4afe0d3de5920d8713113fd72dce6dfb5f5b58a8
     deploy:
       resources:
         reservations:

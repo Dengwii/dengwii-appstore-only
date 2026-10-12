@@ -1,0 +1,31 @@
+name: dengwii-appstore-only-cross-source-memos
+services:
+  memos:
+    environment:
+      PGID: $PGID
+      PUID: $PUID
+      TZ: $TZ
+    image: neosmemo/memos:0.28.0@sha256:a9c224bfee66f1738ff2a28949f7001111a81b533004070860ed43dc77206600
+    deploy:
+      resources:
+        reservations:
+          memory: 64M
+    network_mode: bridge
+    ports:
+      - target: 5230
+        published: "15230"
+        protocol: tcp
+    restart: unless-stopped
+    volumes:
+      - type: bind
+        source: /DATA/AppData/$AppID/memos
+        target: /var/opt/memos
+    container_name: dengwii-appstore-only-cross-source-memos
+x-casaos:
+  id: io.github.dengwii.crosssourcememos
+  main: memos
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/dengwii-appstore-only@gh-pages/apps/io.github.dengwii.crosssourcememos/assets/icon.svg
+  title:
+    en_US: Memos Cross-Source Fixture
+  port_map: "15230"
+  version: "0.28.0"
