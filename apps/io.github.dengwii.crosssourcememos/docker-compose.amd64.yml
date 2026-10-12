@@ -28,4 +28,3 @@ x-casaos:
   title:
     en_US: Memos Cross-Source Fixture
   port_map: "15230"
-  version: "0.28.0"
